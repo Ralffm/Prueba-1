@@ -1,0 +1,85 @@
+#Encabesado{ 
+    background-color:darkslategrey;
+    height: 360px;
+    display: block;
+    color: red;
+    font:oblique 25px cursive;
+    text-align: center;
+    
+}
+#IMG{
+    border-radius: 49%;
+    border: 6px;
+}
+#Nombre{ 
+    color: red;
+    font:oblique 25px cursive;
+    text-align: center;
+    display: block;
+    height: 360px;
+}
+.Nombre{ 
+
+  text-align:left;
+    color:aliceblue;
+    font:oblique 40px cursive;
+    position:absolute;
+    top: 15%;
+    left: 30%;
+    
+}
+.Nombre1{ 
+    text-align: right;
+    color:aliceblue;
+    font:oblique 40px cursive;
+    position:absolute;
+    right: 30%;
+    top: 15%;
+}
+.Profecion{ 
+    background-color:lightgrey;
+    color:black;
+    font:oblique 35px cursive;
+    text-align: center;
+    left: 600px;
+    top: 400px;
+}
+#Columna1{ 
+    
+    float:left;
+    margin: 5%;
+    padding: 20px; 
+    height: 500px;
+    text-align: justify;
+    max-width: 800px;
+    
+}
+#Columna2{ 
+    
+    float:left;
+    margin: 5%;
+    padding: 2px; 
+    height: 500px;
+    text-align: justify;
+    max-width: 1000px;
+    
+}
+#Columna2-1{ 
+    margin: 1%;
+    padding: 1%; 
+    height:20%
+    Max-width: 100%;
+    text-align: justify;
+       
+}
+#titulo{ 
+    color:green;
+    font:30px Arial;
+    text-align:left:  
+}
+
+#titulo2{ 
+    color:darkgrey;
+    font:30px Arial;
+    text-align:left:  
+}
